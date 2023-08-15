@@ -75,7 +75,7 @@ admin_34 : "Failed to seek the current stream."
 
 # Start
 start_1 : "Tʜᴀɴᴋs ғᴏʀ ʜᴀᴠɪɴɢ ᴍᴇ ɪɴ {0}.\n{1} ɪs ᴀʟɪᴠᴇ.\n\nFᴏʀ ᴀɴʏ ᴀssɪsᴛᴀɴᴄᴇ ᴏʀ ʜᴇʟᴘ, ᴄʜᴇᴄᴋᴏᴜᴛ ᴏᴜʀ sᴜᴘᴘᴏʀ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇʟ ᴏʀ ᴏᴡɴᴇʀ."
-start_2 : "Hᴇʟʟᴏ ᴍʏ ɴᴀᴍᴇ ɪs {0}.\n\nI'ᴍ ᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs. Sᴜᴘᴘᴏʀᴛɪɴɢ ᴘʟᴀᴛғᴏʀᴍs ʟɪᴋᴇ Yᴏᴜᴛᴜʙᴇ, Sʟᴏᴛɪғʏ, Rᴇssᴏ, AᴘᴘʟᴇMᴜsɪᴄ, Sᴏᴜɴᴅᴄʟᴏᴜᴅ ᴇᴛᴄ.\n\nFᴇᴇʟ ғʀᴇᴇ ᴛᴏ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴘᴜᴘs."
+start_2 : "Hᴇʟʟᴏ ᴍʏ ɴᴀᴍᴇ ɪs {0}.\n\nI'ᴍ ᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs. Sᴜᴘᴘᴏʀᴛɪɴɢ ᴘʟᴀᴛғᴏʀᴍs ʟɪᴋᴇ Yᴏᴜᴛᴜʙᴇ, Sᴘᴏᴛɪғʏ, Rᴇssᴏ, AᴘᴘʟᴇMᴜsɪᴄ, Sᴏᴜɴᴅᴄʟᴏᴜᴅ ᴇᴛᴄ.\n\nFᴇᴇʟ ғʀᴇᴇ ᴛᴏ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs."
 start_3 : "Wᴇʟᴄᴏᴍᴇ ᴛᴏ {0}\n\nMᴀᴋᴇ **ADMIN** ᴛᴏ ᴛʜᴇ ʙᴏᴛ ᴛᴏ ᴇɴᴊᴏʏ sᴇᴀᴍʟᴇss ᴍᴜsɪᴄ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.\n\nAssɪsᴛᴀɴᴛ ᴜsᴇʀɴᴀᴍᴇ:- @{1}\nAssɪsᴛᴀɴᴛ ID:- {2}"
 start_4 : "{0}'s Owner[{1}] has just joined your chat."
 start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
@@ -141,8 +141,8 @@ cplay_4 : "Failed to get channel.\n\nMake sure you have added bot in your channe
 cplay_5 : "Only Channels are supported."
 cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with this group.\n**Channel's Owner:** @{1}\n\nAlternatively you can link your group to that channel and then try connnecting with `/channelplay linked`"
 
-#Play
-play_1 : "🔄 Processing Query... Please Wait!"
+#Play 
+play_1 : "🔄 𝑷𝑹𝑶𝑪𝑬𝑺𝑺𝑰𝑵𝑮 𝑸𝑼𝑬𝑹𝒀.... 𝑷𝑳𝑬𝑨𝑺𝑬 𝑾𝑨𝑰𝑻!"
 play_2 : "**🏷Channel Play Mode**\n\n🔄 Processing Query... Please Wait!\n**Linked Channel:** {0}"
 play_3 : "Failed to Process Query!"
 play_4 : "🖇 **Admins Only Play**\nOnly Admins and Auth Users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache"
